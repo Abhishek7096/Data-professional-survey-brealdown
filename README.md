@@ -1,4 +1,4 @@
-Data Professional Survey Analysis Dashboard
+#Data Professional Survey Analysis Dashboard
 📌 Project Overview
 This repository contains a comprehensive Power BI project that analyzes the results of a global survey targeting Data Professionals. The dashboard provides a deep dive into the demographics, salary trends, job roles, and technical skill sets that define the current data industry landscape.
 
