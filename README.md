@@ -1,9 +1,9 @@
-##Data Professional Survey Analysis Dashboard
+#Data Professional Survey Analysis Dashboard
 
 📌 Project Overview
 This repository contains a comprehensive Power BI project that analyzes the results of a global survey targeting Data Professionals. The dashboard provides a deep dive into the demographics, salary trends, job roles, and technical skill sets that define the current data industry landscape.
 
-## Dataset used
+# Dataset used
 - <a href="https://github.com/Abhishek7096/Data-professional-survey-brealdown/blob/main/Power%20BI%20-%20Final%20Project.xlsx">Dataset</a>
 
 📊 Key Insights & Visualizations
@@ -25,7 +25,7 @@ Theming: Utilizes custom JSON themes, including CityPark and CY18SU07, for a cle
 Security: Includes pre-configured security bindings for data integrity.
 
 Metadata: Features version-controlled metadata and diagram layouts for easy maintenance.
-- <a href="">Dashboard</a>
+- <a href="https://github.com/Abhishek7096/Data-professional-survey-brealdown/blob/main/Data%20Professional%20Survey%20Breakdown.png">Dashboard</a>
 
 📝 About the Data
 The data used in this report is derived from a survey of over 600 data professionals, capturing a snapshot of the industry's evolving standards and challenges.
