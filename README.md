@@ -1,9 +1,10 @@
 #Data Professional Survey Analysis Dashboard
+
 📌 Project Overview
 This repository contains a comprehensive Power BI project that analyzes the results of a global survey targeting Data Professionals. The dashboard provides a deep dive into the demographics, salary trends, job roles, and technical skill sets that define the current data industry landscape.
 ## Dataset used
 - <a href="https://github.com/Abhishek7096/Data-professional-survey-brealdown/blob/main/Power%20BI%20-%20Final%20Project.xlsx">Dataset</a>
-📊 Key Insights & Visualizations
+#📊 Key Insights & Visualizations
 The .pbix file is structured to answer critical career questions through data:
 
 Salary Benchmarking: Analysis of compensation across different job titles and geographic locations.
